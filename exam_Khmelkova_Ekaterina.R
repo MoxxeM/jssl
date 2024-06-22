@@ -67,6 +67,12 @@ mean(z)
 # question 21
 
 # question 22
+model <- lm(Salary ~ Age, data=data)
+ui = data.frame(
+  Age = 30
+)
 
+predict(model, ui)
+  
 
 # question 23
