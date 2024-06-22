@@ -103,8 +103,6 @@ ui = data.frame(
 predict(model, ui)
 
 
-library(ggplot2)
-
 model <- lm(hwy ~ displ, data = mpg)
 summary(model)
 
