@@ -1,5 +1,8 @@
 # question 1
-# in python file
+library(ggplot)
+mpg
+help(mpg)
+#ggg
 
 # question 2
 
