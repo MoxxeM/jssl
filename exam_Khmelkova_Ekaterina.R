@@ -53,6 +53,10 @@ predict(model, g)
 
 
 # question 17
+x <- c(1,2,3,4,5)
+y <- c(2,4,6,8,10,6)
+z <- x %% y
+mean(z)
 
 # question 18
 
@@ -63,5 +67,6 @@ predict(model, g)
 # question 21
 
 # question 22
+
 
 # question 23
